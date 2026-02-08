@@ -1,0 +1,1 @@
+SELECT * FROM `kf_final_transaction.kf_analisa` LIMIT 1000;
